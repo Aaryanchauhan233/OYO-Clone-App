@@ -1,5 +1,5 @@
 
-# OYO-Clone - Django Project
+# OYO-Clone-app - Django Project
 
 ## Project Overview
 
@@ -26,7 +26,7 @@ This is a full-stack web application project inspired by the OYO Rooms platform,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/oyo-clone-django.git
+   git clone https://github.com/Aaryanchauhan233/oyo-clone-django.git
    cd oyo-clone-django
 
 ## Create a virtual environment and activate it:
