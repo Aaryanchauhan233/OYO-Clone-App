@@ -30,19 +30,24 @@ This is a full-stack web application project inspired by the OYO Rooms platform,
    cd oyo-clone-django
 
 ## Create a virtual environment and activate it:
+```bash
 python -m venv venv
 source venv/bin/activate
 
 ## Install project dependencies:
+```bash
 pip install -r requirements.txt
 
 ## Set up the database:
+```bash
 python manage.py migrate
 
 ## Create a superuser for the admin panel:
+```bash
 python manage.py createsuperuser
 
 ## Start the development server:
+```bash
 python manage.py runserver
 
 ## Access the application in your web browser at
