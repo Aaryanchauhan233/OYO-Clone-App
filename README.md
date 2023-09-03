@@ -1,5 +1,5 @@
+# OYO Clone - Django Project
 
-# OYO-Clone-app - Django Project
 
 ## Project Overview
 
@@ -26,32 +26,26 @@ This is a full-stack web application project inspired by the OYO Rooms platform,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Aaryanchauhan233/oyo-clone-django.git
+   git clone https://github.com/Aaryanchauhab233/oyo-clone-django.git
    cd oyo-clone-django
-
 ## Create a virtual environment and activate it:
-```bash
 python -m venv venv
 source venv/bin/activate
 
 ## Install project dependencies:
-```bash
 pip install -r requirements.txt
 
 ## Set up the database:
-```bash
 python manage.py migrate
 
 ## Create a superuser for the admin panel:
-```bash
 python manage.py createsuperuser
 
 ## Start the development server:
-```bash
 python manage.py runserver
 
 ## Access the application in your web browser at
-http://localhost:8000.
+http://localhost:8000
 
 ## Usage
 To access the admin dashboard, navigate to http://localhost:8000/admin and log in using your superuser credentials.
@@ -66,9 +60,6 @@ Contributions are welcome! Please follow the standard GitHub Flow process.
 2.Create a new branch (e.g., feature/new-feature or bugfix/fix-issue).
 3.Make your changes.
 4.Create a pull request.
-
-## License
-This project is licensed under the MIT License.
 
 
 
