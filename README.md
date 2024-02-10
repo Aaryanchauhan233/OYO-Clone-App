@@ -3,14 +3,13 @@
 
 ## Project Overview
 
-This is a full-stack web application project inspired by the OYO Rooms platform, built using the Django framework. The project aims to replicate the core functionality of OYO Rooms, including hotel booking, user authentication, property listings, booking management, payment integration, and an admin dashboard.
+This is a full-stack web application project inspired by the OYO Rooms platform, built using the Django framework. The project aims to replicate the core functionality of OYO Rooms, including hotel booking, user authentication, property listings, booking management, and an admin dashboard.
 
 ## Features
 
 - User Registration and Authentication
 - Hotel/Property Listings
 - Booking Management
-- Payment Integration
 - User-Friendly Admin Dashboard
 
 ## Technologies Used
